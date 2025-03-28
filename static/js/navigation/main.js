@@ -72,7 +72,7 @@ function resetToggles(exception) {
 // Update careers dropdown with latest available roles
 populateCareersRoles();
 
-// Init GA tracking
+// Init GA tracking.
 initGATracking();
 
 export default closeAllNavigationItems;
